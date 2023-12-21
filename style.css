@@ -34,6 +34,8 @@ a.navlink {
 
 article {
     margin: auto;
+    justify-content: center;
+    text-align: center;
 }
 
 h2 {
@@ -65,4 +67,10 @@ h6 {
     width: auto;
     background-color: black;
     margin-top: auto;
+}
+
+.profpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
