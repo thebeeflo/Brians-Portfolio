@@ -24,6 +24,11 @@ a.navlink {
     text-decoration: none;
 }
 
+a.navlink:hover {
+    background-color: white;
+    color: black;
+}
+
 .navbackground {
     height: 30px;
     width: auto;
@@ -73,4 +78,6 @@ h6 {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 10px;
 }
+
